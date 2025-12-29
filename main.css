@@ -4,7 +4,7 @@
 body{
     font-family: 'Montserrat',sans-serif;
     overflow-x: hidden ;
-    background: url("../img/Recursos/webb.png");
+    background: url("img/Recursos/webb.png");
 }
 
 /*
@@ -63,6 +63,7 @@ body{
 #titulo-formulario {
     color: #3f3f3f;
 }
+
 
 
 
